@@ -48,7 +48,7 @@ or double-click the AdGuard icon in the system tray:
 2. 在右上角点击**齿轮图标**
 3. 点击**许可...**
 
-![转到设置和许可证](https://cdn.adtidy.org/public/Adguard/kb/newscreenshots/En/General/macEn.png)
+![Go to Settings and License *mobile](https://cdn.adtidy.org/public/Adguard/kb/newscreenshots/En/General/macEn.png)
 
 4. 在弹出的窗口中按「**激活**」按钮
 

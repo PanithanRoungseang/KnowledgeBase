@@ -48,7 +48,7 @@ or double-click the AdGuard icon in the system tray:
 2. 右上の**⚙アイコン**を押す
 3. 「**ライセンス…**」をクリックする
 
-![「設定」→「ライセンス」に移動 *mobile](https://cdn.adtidy.org/public/Adguard/kb/newscreenshots/Ja/General/mac2.png)
+![Go to Settings and License *mobile](https://cdn.adtidy.org/public/Adguard/kb/newscreenshots/Ja/General/mac2.png)
 
 4. 開いたウィンドウで、「**ライセンスキーを認証する**」をクリック
 
